@@ -1,2 +1,3 @@
 # hello-world
-in Python
+(hello_Python)
+Hi, I m starting to program in Python. Wanna be data scientist :) 
