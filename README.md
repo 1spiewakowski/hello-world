@@ -1,3 +1,3 @@
 # hello-world
-in Python
+(Python)
 Hi, I m starting to program in Python. Wanna be data scientist :) 
